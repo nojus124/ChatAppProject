@@ -1,3 +1,5 @@
+![image](https://github.com/nojus124/ChatAppProject/assets/46402646/2c228d0f-83c2-4fb8-8987-95571bca05af)
+
 # Laravel Jetstream Chat Application
 This is a real-time chat application built using Laravel Jetstream and powered by Pusher for live updates.
 
