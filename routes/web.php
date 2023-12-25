@@ -16,7 +16,7 @@ use App\Http\Controllers\PusherController;
 
 Route::get('/', function () {
     return view('welcome');
-});
+})->name('home');
 
 Route::middleware([
     'auth:sanctum',
